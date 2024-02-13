@@ -1,0 +1,23 @@
+.title-container {
+    margin-top: 60px;
+    margin-left:30px;
+    margin-right:30px;
+    margin-bottom:20px;
+    text-indent:50px;
+}
+
+.hr{
+    display:block;
+    margin-top:1.0em;
+    margin-bottom:1.0em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-width:1px;
+}
+
+.title-name {
+    color: var(--button-clr);
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
